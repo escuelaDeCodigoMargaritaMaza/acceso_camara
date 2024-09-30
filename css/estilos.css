@@ -1,0 +1,36 @@
+/* body{
+    background-color: #f4f4f4;
+    font-family: Arial,sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.contenedor{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
+.convertidor, weather{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+button{
+    background-color: rgb(157, 166, 243);
+    color: #fff;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: rgb(91, 41, 243);
+} 
+#datosSalida{
+    font-size: 1.5em;
+    color:#333;
+} */
+
